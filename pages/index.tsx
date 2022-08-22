@@ -8,10 +8,10 @@ const Home: NextPage = () => {
     <Head>
         <title>EPknoT</title>
         <meta name="google-site-verification" content="tvHAQwWcFh1GSWQ6zcPNeb7G2fGEjD-89G2pLWtO4DM" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta content="船舶売買仲介会社である株式会社EPknoTのコーポレートサイトです" name="description" />
-    <meta name="keywords" content="EPknoT,エプノット,船舶,ブローカー,シップブローカー,船舶仲介,ship, broker, consulting, japan, finance, タンカー" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#000000" />
+        <meta content="船舶売買仲介会社である株式会社EPknoTのコーポレートサイトです" name="description" />
+        <meta name="keywords" content="EPknoT,エプノット,船舶,ブローカー,シップブローカー,船舶仲介,ship, broker, consulting, japan, finance, タンカー" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
