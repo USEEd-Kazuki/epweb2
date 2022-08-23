@@ -6,6 +6,7 @@ import Modal1 from '../components/modal1';
 import Modal2 from '../components/modal2';
 import Modal3 from '../components/modal3';
 import Modal4 from '../components/modal4';
+import Modal5 from '../components/modal5';
 
 const Team = () => {
   return (
@@ -28,6 +29,11 @@ const Team = () => {
             <h2 className="teamMember-position">CEO/Broker</h2>
             <div className="teamMember-name">山本 尚季</div>
             <Modal />
+          </li>
+          <li className="teammember-contant">
+            <h2 className="teamMember-position">CFO</h2>
+            <div className="teamMember-name">近藤　隆之</div>
+            <Modal5 />
           </li>
           <li className="teammember-contant">
             <h2 className="teamMember-position">COO</h2>

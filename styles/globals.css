@@ -3,6 +3,7 @@
 @import "tailwindcss/utilities";
 
 html{
+  font-family: 'Oswald', 'Noto+Sans+JP';
     scroll-behavior: smooth;
     @apply top-0 left-0 right-0
 }
@@ -787,6 +788,7 @@ video{
   position: relative;
   text-align: left;
   margin-bottom: 40px;
+  font-size: 30px;
 }
 
 .modal-section{
@@ -1257,8 +1259,6 @@ th{
 td{
   font-size: 20px;
 }
-
-
 
 
 @media screen and (max-width: 1200px) {
