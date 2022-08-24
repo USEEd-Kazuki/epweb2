@@ -35,7 +35,7 @@ const Header = () => {
         src={"/logo.svg"}
         height={80}
         width={80}
-        className={"cursor-pointer object-contain"}
+        className={"cursor-pointer object-contain flex-end"}
         />
         <Link href='/'>
       <h1 className='font-bold text-4xl cursor-pointer text-[#a30863]'>EPknoT</h1>
