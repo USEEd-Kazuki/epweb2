@@ -7,7 +7,7 @@ const Home: NextPage = () => {
         <div  className='relative h-screen bg-gradient-to-b from-gray-900/10 to-[#010511] lg:-h[140vh]'>
     <Head>
         <title>EPknoT</title>
-        <meta name="google-site-verification" content="tvHAQwWcFh1GSWQ6zcPNeb7G2fGEjD-89G2pLWtO4DM" />
+        <meta name="google-site-verification" content="Q1UDjEDkSeXTnZzh03RCNeoR1NuFTxCL8oJzqocorNI" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000" />
         <meta content="船舶売買仲介会社である株式会社EPknoTのコーポレートサイトです" name="description" />
